@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xia1ge.github.io</id>
     <title>雷锋哥的后花园</title>
-    <updated>2020-06-02T15:53:46.789Z</updated>
+    <updated>2020-06-02T16:35:42.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xia1ge.github.io"/>
     <link rel="self" href="https://xia1ge.github.io/atom.xml"/>
@@ -16,12 +16,8 @@
         <link href="https://xia1ge.github.io/post/zhe-kuan-xiao-gong-ju-gan-diao-windows-10-rang-ren-gan-dao-hen-bu-shuang-de-gong-neng/">
         </link>
         <updated>2020-06-02T15:36:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>有部分人不愿意用「Windows 10」主要还是BUG太多了，今天电脑用着好好的，关机前更新个补丁，明天开机就蓝屏、数据丢失啥的，真是让人头疼。</p>
-<p>其实在「Windows 10」频繁出BUG前，最开始微软还在开始菜单的磁贴植入广告，通过收集你个人隐私信息来个性化推广相关的软件，卸载了广告磁贴，下次开机又有了，引起了很多用户不满，装回「Windows 7」系统。</p>
-<figure data-type="image" tabindex="1"><img src="https://xia1ge.github.io/post-images/1591112292286.png" alt="" loading="lazy"></figure>
-<p>后来微软加入了 &quot;偶尔在开始菜单中显示建议&quot; 功能，允许取消广告推荐，但是收集用户隐私的问题还是引起一些用户的担忧。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>有部分人不愿意用「Windows 10」主要还是BUG太多了，今天电脑用着好好的，关机前更新个补丁，明天开机就蓝屏、数据丢失啥的，真是让人头疼。</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>有部分人不愿意用「Windows 10」主要还是BUG太多了，今天电脑用着好好的，关机前更新个补丁，明天开机就蓝屏、数据丢失啥的，真是让人头疼。</p>
 <p>其实在「Windows 10」频繁出BUG前，最开始微软还在开始菜单的磁贴植入广告，通过收集你个人隐私信息来个性化推广相关的软件，卸载了广告磁贴，下次开机又有了，引起了很多用户不满，装回「Windows 7」系统。</p>
 <figure data-type="image" tabindex="1"><img src="https://xia1ge.github.io/post-images/1591112292286.png" alt="" loading="lazy"></figure>
 <p>后来微软加入了 &quot;偶尔在开始菜单中显示建议&quot; 功能，允许取消广告推荐，但是收集用户隐私的问题还是引起一些用户的担忧。</p>
