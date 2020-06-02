@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xia1ge.github.io</id>
-    <title>雷锋哥的后花园</title>
-    <updated>2020-06-02T16:38:04.547Z</updated>
+    <title>创作不易，打个赏吧，亲！</title>
+    <updated>2020-06-02T17:33:16.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xia1ge.github.io"/>
     <link rel="self" href="https://xia1ge.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://xia1ge.github.io/images/avatar.png</logo>
     <icon>https://xia1ge.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 雷锋哥的后花园</rights>
+    <rights>All rights reserved 2020, 创作不易，打个赏吧，亲！</rights>
     <entry>
         <title type="html"><![CDATA[这款小工具干掉「Windows 10」让人感到很不爽的功能]]></title>
         <id>https://xia1ge.github.io/post/zhe-kuan-xiao-gong-ju-gan-diao-windows-10-rang-ren-gan-dao-hen-bu-shuang-de-gong-neng/</id>
